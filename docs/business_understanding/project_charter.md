@@ -2,11 +2,13 @@
 
 ## Nombre del Proyecto
 
-[Nombre del proyecto aquí]
+Aprendizaje Automático Aplicado a Datos de Citometría
 
 ## Objetivo del Proyecto
 
-[Descripción breve del objetivo del proyecto y por qué es importante]
+El proyecto se centrará en la implementación y validación de una arquitectura de aprendizaje profundo (Deep Learning) basada en Redes Convolucionales Profundas (Deep CNN) para el análisis de datos de citometría.
+Un objetivo secundario, pero crítico, es la integración de un método de interpretación basado en permutaciones. Esto permitirá cuantificar el impacto de células específicas en la predicción del modelo y, posteriormente, identificar y caracterizar los subconjuntos celulares (biomarcadores) que impulsan la clasificación.
+La relevancia de este proyecto radica en la superación de las limitaciones inherentes a los flujos de trabajo tradicionales de análisis de citometría, en particular al abordar la complejidad de los datos de alta dimensionalidad.
 
 ## Alcance del Proyecto
 
