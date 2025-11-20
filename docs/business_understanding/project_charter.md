@@ -40,8 +40,11 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
+- Chief Data Officer (CDO): William Agudelo S.
+- Científico de datos: William Agudelo S.
+- Ingeniero de datos: William Agudelo S.
+- Analista de datos: William Agudelo S.
+- Ingeniero de Machine Learning: William Agudelo S.
 
 ## Presupuesto
 
