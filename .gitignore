@@ -1,5 +1,53 @@
-**/*__pycache__/*
-*.env
-env_vars*
-credentials*
-**/build/*
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env
+
+# --- R (Si usas RStudio o scripts de R) ---
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# --- Jupyter Notebooks ---
+# Ignoramos los puntos de control automáticos
+.ipynb_checkpoints/
+
+# --- Datos Pesados y Bioinformática ---
+# Ignorar formatos genómicos comunes que suelen pesar gigas
+*.fasta
+*.fastq
+*.fq
+*.bam
+*.sam
+*.vcf
+*.bed
+*.gff
+*.gtf
+
+# --- Archivos Comprimidos ---
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# --- Directorios de Datos y Resultados ---
+# Ignorar todo el contenido de data y results para no subir GBs por error
+data/*
+results/*
+# (! Excepción: Si quieres subir un archivo específico dentro de data, usa 'git add -f')
+
+# --- Modelos de Machine Learning ---
+*.pkl
+*.h5
+*.pt
+*.rds
